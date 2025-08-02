@@ -1,0 +1,67 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>Compartilhamento GitHub - Bootcamp Santander</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            max-width: 600px;
+            margin: 40px auto;
+            padding: 20px;
+            background: #f9f9f9;
+            color: #333;
+            line-height: 1.5;
+            border-radius: 8px;
+            box-shadow: 0 2px 6px rgb(0 0 0 / 0.1);
+        }
+        h1 {
+            color: #0077b5;
+            font-size: 1.8rem;
+            margin-bottom: 0.5em;
+        }
+        p {
+            margin-bottom: 1.2em;
+            font-size: 1.1rem;
+        }
+        .emoji {
+            font-size: 1.3rem;
+            margin-right: 0.3em;
+        }
+        a {
+            color: #0077b5;
+            text-decoration: none;
+            font-weight: bold;
+        }
+        a:hover {
+            text-decoration: underline;
+        }
+        footer {
+            margin-top: 2em;
+            font-size: 0.9rem;
+            color: #777;
+            text-align: center;
+        }
+    </style>
+</head>
+<body>
+    <h1>🚀 Finalizando mais um desafio no Bootcamp Santander</h1>
+
+    <p><span class="emoji">💻</span>Concluí a versão 2 do meu sistema bancário em Python, modularizando funções de saque, depósito, extrato, além de criar funções para cadastro de usuários e contas.</p>
+
+    <p><span class="emoji">🧩</span>Foi um baita aprendizado reorganizar o código e deixar tudo mais limpo e funcional.</p>
+
+    <p><span class="emoji">📂</span>Separei as versões em pastas diferentes para manter tudo organizado e facilitar futuras atualizações.</p>
+
+    <p><span class="emoji">📢</span>Confira no meu GitHub:<br />
+        <a href="https://github.com/Elinton-Souza/meu-projeto-python" target="_blank" rel="noopener noreferrer">
+            https://github.com/Elinton-Souza/meu-projeto-python
+        </a>
+    </p>
+
+    <p><span class="emoji">🔥</span>Seguindo firme na jornada de aprendizado e evolução na programação!</p>
+
+    <footer>Elinton Souza Cunha - 2025</footer>
+</body>
+</html>
